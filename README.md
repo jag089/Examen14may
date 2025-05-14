@@ -20,4 +20,4 @@ Aprendemos a crear un repositorio en **GitHub** a través de **Git** (consola de
    `git push`
 
 > [!IMPORTANT]
-> Seguramente el `git push` dará error, por lo tanto, copiamos el comando `git push --set-upstream origin master`
+> Seguramente el `git push` dará error, por lo tanto, copiamos el comando `git push --set-upstream origin master` y damos enter.
